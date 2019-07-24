@@ -1,7 +1,8 @@
 # Simple Mimikatz "Obfuscator"
 
 ### **Tested in**
-**Defender**: Security Intelligence (yeah...) Version **1.299.356.0**
+**Defender**: Security Intelligence (yeah...) Version **1.299.423.0**
+
 **Windows**: **1903** (OS Build **18362.239**)
 
 ## Description 
