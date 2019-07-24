@@ -47,7 +47,7 @@ I do not really use to use mimikatz from an executable (i really prefer the "Cob
 
 And probably not all of these are needed, but who cares.
 ## PoC
-[https://www.youtube.com/watch?v=9AZqfepiAn4](https://www.youtube.com/watch?v=9AZqfepiAn4)
+[https://youtu.be/OMktHYpzOi4](https://youtu.be/OMktHYpzOi4)
 ## How To
 
 You can only invoke it with arguments:
@@ -65,7 +65,7 @@ Of course all credits go to: [https://github.com/gentilkiwi/mimikatz](https://gi
 
 This guy created this amazing tool and gave it to all of us. 
 
-I stole a lot from the following articles:
+I "stole" a lot from the following articles:
 
 [https://weekly-geekly.github.io/articles/454758/index.html?fbclid=IwAR1tAuqz7SqYE9yXoIBOruVwEQ0BueQZqmL6Gse2T6Cb1eWBma7zIceJhXY](https://weekly-geekly.github.io/articles/454758/index.html?fbclid=IwAR1tAuqz7SqYE9yXoIBOruVwEQ0BueQZqmL6Gse2T6Cb1eWBma7zIceJhXY)
 
