@@ -62,9 +62,11 @@ If you find other signatures and you want to share, please feel free to commit.
 ## References
 
 Of course all credits go to: [https://github.com/gentilkiwi/mimikatz](https://github.com/gentilkiwi/mimikatz) 
+
 This guy created this amazing tool and gave it to all of us. 
 
 I stole a lot from the following articles:
+
 [https://weekly-geekly.github.io/articles/454758/index.html?fbclid=IwAR1tAuqz7SqYE9yXoIBOruVwEQ0BueQZqmL6Gse2T6Cb1eWBma7zIceJhXY](https://weekly-geekly.github.io/articles/454758/index.html?fbclid=IwAR1tAuqz7SqYE9yXoIBOruVwEQ0BueQZqmL6Gse2T6Cb1eWBma7zIceJhXY)
 
 [https://www.blackhillsinfosec.com/bypass-anti-virus-run-mimikatz/?fbclid=IwAR1LQjnmRzhXnlOtMfCbPVhYgUVdgu8xRiAwOJPg-7eIFjZgjEI8--548W0](https://www.blackhillsinfosec.com/bypass-anti-virus-run-mimikatz/?fbclid=IwAR1LQjnmRzhXnlOtMfCbPVhYgUVdgu8xRiAwOJPg-7eIFjZgjEI8--548W0)
@@ -72,6 +74,7 @@ I stole a lot from the following articles:
 
 
 And i almost copied paste from the following:
+
 [https://gist.github.com/JonnyBanana/96331b350f99d267e07da16246724517](https://gist.github.com/JonnyBanana/96331b350f99d267e07da16246724517)
 thx JonnyBanana
 
