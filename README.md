@@ -6,7 +6,7 @@
 **Windows**: **1903** (OS Build **18362.239**)
 
 ## Description 
-The following set of commands, will download the latest version of mimikatz and make a few changes to the source code, in order to bypass Defender. I **have only tested with logonpasswords** (**logonpassword** after the changes...). If you want other modules, i suppose that one more "sed" will do the job...
+The following set of commands, will download the latest version of mimikatz and make a few changes to the source code, in order to bypass Defender. I **have only tested with logonpasswords** (**logonpassword** after the changes...). If you want other modules, and Defender complaints, i suppose that one more "sed" will do the job...
 
 I do not really use to use mimikatz from an executable (i really prefer the "Cobalt Strike" way), but i was curious how difficult could be to bypass the Defender. 
 
